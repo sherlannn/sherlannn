@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="center">Hey 👋 I'm Ehsan</h3>
+<h3 align="center">Hey 👋 I'm Ehsan<a href="https://github.com/sherlannn/sherlannn/blob/main/Ehsan%20Mokhtari%20CV.pdf" target="_blank">View my CV ⬇️</a></h3>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center"><a href="https://github.com/sherlannn/sherlannn/blob/main/Ehsan%20Mokhtari%20CV.pdf" target="_blank">View my CV ⬇️</a> </h3>
+<h3 align="center"> </h3>
 
 ###
 
