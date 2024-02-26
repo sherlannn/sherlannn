@@ -8,6 +8,10 @@
 
 ###
 
+<h3 align="center"><a href="https://github.com/sherlannn/sherlannn/blob/main/Ehsan%20Mokhtari%20CV.pdf" target="_blank">My CV </a> </h3>
+
+###
+
 <h1 align="left"></h1>
 
 ###
