@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center"><a class='btn btn-link' href="https://github.com/sherlannn/sherlannn/blob/main/Ehsan%20Mokhtari%20CV.pdf" target="_blank"> Download my Resume 📄 </a> </h3>
+<h3 align="center"><a href="https://github.com/sherlannn/sherlannn/blob/main/Ehsan%20Mokhtari%20CV.pdf" target="_blank">📄 Download my Resume 📄</a> </h3>
 
 ###
 
