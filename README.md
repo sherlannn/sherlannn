@@ -33,11 +33,11 @@
   <a href="https://www.kaggle.com/ehsanmokhtari" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="52" height="40" alt="kaggle logo"  />
   </a>
-  <a href="https://www.sololearn.com/en/profile/2520624" target="_blank">
-    <img src="https://brandfetch.com/sololearn.com?view=library&library=default&collection=logos&asset=idP2mxyvDa" width="52" height="40" alt="SoloLearn"  />
-  </a>
   <a href="https://www.datacamp.com/portfolio/ehsan76m" target="_blank">
     <img src="https://old-waffles.datacamp.com/logo/logomark.svg" width="52" height="40" alt="DataCamp"  />
+  </a>
+  <a href="https://www.sololearn.com/en/profile/2520624" target="_blank">
+    <img src="https://www.flaticon.com/free-icons/climate" width="52" height="40" alt="SoloLearn"  />
   </a>
 </div>
 
