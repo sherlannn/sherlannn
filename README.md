@@ -37,7 +37,7 @@
     <img src="" width="52" height="40" alt="SoloLearn"  />
   </a>
   <a href="https://www.datacamp.com/portfolio/ehsan76m" target="_blank">
-    <img src="" width="52" height="40" alt="DataCamp"  />
+    <img src="https://old-waffles.datacamp.com/logo/logomark.svg" width="52" height="40" alt="DataCamp"  />
   </a>
 </div>
 
