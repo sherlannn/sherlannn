@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Data Scientist | Data Science M.Sc. student at Sapienza | Passionate about DS, ML, DL & Entrepreneurship</h3>
+<h3 align="center">Data Scientist | Data Science M.Sc. student at Sapienza | Passionate about DS, ML, DL, CV</h3>
 
 
 ###
@@ -46,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
 
 ###
