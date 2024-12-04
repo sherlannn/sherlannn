@@ -43,7 +43,7 @@
 
 ###
 
-<h4 align="left">Languages :</h4>
+<h4 align="left">Programming Languages :</h4>
 
 ###
 
@@ -61,7 +61,7 @@
 
 ###
 
-<h4 align="left">ML and DL libraries :</h4>
+<h4 align="left">ML, DL, CV Frameworks :</h4>
 
 ###
 
@@ -89,7 +89,7 @@
 
 ###
 
-<h4 align="left">Other :</h4>
+<h4 align="left">Other Frameworks:</h4>
 
 ###
 
@@ -105,6 +105,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
