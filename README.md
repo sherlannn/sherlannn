@@ -36,6 +36,7 @@
   <a href="https://www.datacamp.com/portfolio/ehsan76m" target="_blank">
     <img src="https://old-waffles.datacamp.com/logo/logomark.svg" width="52" height="40" alt="DataCamp"  />
   </a>
+  <a href="https://www.flaticon.com/free-icons/summertime" title="summertime icons">Summertime icons created by ranksol graphics - Flaticon</a>
   <a href="https://www.sololearn.com/en/profile/2520624" target="_blank">
     <img src="https://www.flaticon.com/free-icons/climate" width="52" height="40" alt="SoloLearn"  />
   </a>
