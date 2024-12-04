@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Data Scientist | Data Science M.Sc. student at Sapienza | Passionate about DS, ML, DL, CV</h3>
+<h3 align="center">Data Scientist | Data Science M.Sc. student at Sapienza | Passionate about DataScience, MachineLearning, DeepLearning, ComputerVision</h3>
 
 
 ###
@@ -29,6 +29,9 @@
   </a>
   <a href="https://www.hackerrank.com/profile/sherlannn" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.sololearn.com/en/profile/2520624" target="_blank">
+    <img src="" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
