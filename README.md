@@ -34,7 +34,10 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="52" height="40" alt="kaggle logo"  />
   </a>
   <a href="https://www.sololearn.com/en/profile/2520624" target="_blank">
-    <img src="" width="52" height="40" alt="linkedin logo"  />
+    <img src="" width="52" height="40" alt="SoloLearn"  />
+  </a>
+  <a href="https://www.datacamp.com/portfolio/ehsan76m" target="_blank">
+    <img src="" width="52" height="40" alt="DataCamp"  />
   </a>
 </div>
 
