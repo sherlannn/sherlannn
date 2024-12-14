@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Data Scientist | Data Science M.Sc. student at Sapienza | Passionate about DataScience, MachineLearning, DeepLearning, ComputerVision</h3>
+<h3 align="center">Data Scientist | M.Sc Data Science student at Sapienza university of Rome | Passionate about DataScience, MachineLearning, DeepLearning, ComputerVision</h3>
 
 
 ###
