@@ -4,7 +4,8 @@
 
 ###
 
-<h3 align="center">Data Scientist | M.Sc Data Science student at Sapienza university of Rome | Passionate about DataScience, MachineLearning, DeepLearning, ComputerVision</h3>
+<h3 align="center">Data Scientist | M.Sc Data Science student at Sapienza university of Rome | Passionate about DataScience, MachineLearning, DeepLearning and NNs, ComputerVision</h3>
+<h3 align="center">I am a Data Science Master’s student at the University of Sapienza with a strong background in Computer Engineering. My expertise includes Python, R, Machine Learning, Neural Networks, and Computer Vision. I’ve worked on projects including predictive modeling, time series forecasting, and various NN implementations. Through startup competitions and training camps, I’ve developed strong problem-solving, collaboration, and leadership skills.</h3>
 
 
 ###
