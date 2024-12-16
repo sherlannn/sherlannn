@@ -20,13 +20,7 @@
 
 ### About Me
 
-I am a Data Science Master’s student at Sapienza University of Rome with a strong foundation in Computer Engineering. My expertise includes:
-
-- **Programming Languages**: Python, R  
-- **Core Skills**: Machine Learning, Neural Networks, Computer Vision  
-- **Projects**: Predictive modeling, time series forecasting, and various NN implementations  
-
-Additionally, I've honed my problem-solving, collaboration, and leadership skills through startup competitions and training camps.
+I am a Data Science Master’s student at the University of Sapienza with a strong background in Computer Engineering. My expertise includes Python, R, Machine Learning, Neural Networks, and Computer Vision. I’ve worked on projects including predictive modeling, time series forecasting, and various NN implementations. Through startup competitions and training camps, I’ve developed strong problem-solving, collaboration, and leadership skills.
 
 ---
 
