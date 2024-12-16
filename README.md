@@ -1,11 +1,38 @@
-<br clear="both">
+<h3 align="center">Hey 👋 I'm Ehsan</h3>
 
-<h3 align="center">Hey 👋 I'm Ehsan, <a href="https://github.com/sherlannn/sherlannn/blob/main/EhsanMokhtariCV.pdf" target="_blank"> View my CV ⬇️</a></h3>
+<p align="center">
+  <a href="https://github.com/sherlannn/sherlannn/blob/main/EhsanMokhtariCV.pdf" target="_blank">
+    <strong>View my CV ⬇️</strong>
+  </a>
+</p>
 
-###
+---
 
-<h3 align="center">Data Scientist | M.Sc Data Science student at Sapienza university of Rome | Passionate about DataScience, MachineLearning, DeepLearning and NNs, ComputerVision</h3>
-<h3 align="center">I am a Data Science Master’s student at the University of Sapienza with a strong background in Computer Engineering. My expertise includes Python, R, Machine Learning, Neural Networks, and Computer Vision. I’ve worked on projects including predictive modeling, time series forecasting, and various NN implementations. Through startup competitions and training camps, I’ve developed strong problem-solving, collaboration, and leadership skills.</h3>
+<h3 align="center">📊 Data Scientist | 🎓 M.Sc Data Science Student | 🤖 ML & DL Enthusiast</h3>
+
+<p align="center">
+  <em>
+    Passionate about Data Science, Machine Learning, Deep Learning, Neural Networks, and Computer Vision.
+  </em>
+</p>
+
+---
+
+### About Me
+
+I am a Data Science Master’s student at Sapienza University of Rome with a strong foundation in Computer Engineering. My expertise includes:
+
+- **Programming Languages**: Python, R  
+- **Core Skills**: Machine Learning, Neural Networks, Computer Vision  
+- **Projects**: Predictive modeling, time series forecasting, and various NN implementations  
+
+Additionally, I've honed my problem-solving, collaboration, and leadership skills through startup competitions and training camps.
+
+---
+
+<p align="center">
+  Let's connect and build something amazing together! 🌟
+</p>
 
 
 ###
