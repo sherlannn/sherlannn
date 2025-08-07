@@ -8,11 +8,11 @@
 
 ---
 
-<h3 align="center">📊 Data Scientist | 🎓 M.Sc Data Science Student | 🤖 ML & DL Enthusiast</h3>
+<h3 align="center">🎓 M.Sc Data Science Student</h3>
 
 <p align="center">
   <em>
-    Passionate about Data Science, Machine Learning, Deep Learning, Neural Networks, and Computer Vision.
+    Passionate about Machine Learning, Neural Networks, RAG Systems and LLMs.
   </em>
 </p>
 
@@ -20,7 +20,7 @@
 
 ### About Me
 
-I am a Data Science Master’s student at the University of Sapienza with a strong background in Computer Engineering. My expertise includes Python, R, Machine Learning, Neural Networks, and Computer Vision. I’ve worked on projects including predictive modeling, time series forecasting, and various NN implementations. Through startup competitions and training camps, I’ve developed strong problem-solving, collaboration, and leadership skills.
+I am a Master’s student in Data Science at Sapienza University of Rome with a background in Computer Engineering and a strong focus on Machine Learning, Neural Networks, RAG systems, and generative modeling. My academic work spans topics such as diffusion models, conformal prediction, computer vision, graph neural networks, large language models (LLMs), and Graph RAG. I aim to apply generative and retrieval-augmented models to solve complex real-world problems across domains such as vision, language, and decision-making.
 
 ---
 
