@@ -12,7 +12,7 @@
 
 <p align="center">
   <em>
-    Passionate about Machine Learning, Neural Networks, RAG Systems and LLMs.
+    Passionate about Machine Learning, Neural Networks, RAG Systems, Generative Models and LLMs.
   </em>
 </p>
 
