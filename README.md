@@ -43,9 +43,6 @@ Combining collaborative problem-solving with end-to-end system design, I aim to 
   <a href="https://www.kaggle.com/ehsanmokhtari" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="52" height="40" alt="kaggle logo" />
   </a>
-  <a href="https://www.datacamp.com/portfolio/ehsan76m" target="_blank">
-    <img src="https://old-waffles.datacamp.com/logo/logomark.svg" width="52" height="40" alt="DataCamp" />
-  </a>
 </div>
 
 ### 🛠️ Technical Stack
