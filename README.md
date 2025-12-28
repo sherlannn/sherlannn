@@ -48,11 +48,15 @@ Combining collaborative problem-solving with end-to-end system design, I aim to 
   <a href="https://www.kaggle.com/ehsanmokhtari" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="52" height="40" alt="kaggle logo" />
   </a>
+  <a href="https://www.datacamp.com/portfolio/ehsan76m" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/datacamp.svg" width="52" height="40" alt="datacamp logo" />
+  </a>
+  <a href="https://www.sololearn.com/profile/2520624" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/sololearn.svg" width="52" height="40" alt="sololearn logo" />
+  </a>
 </div>
 
-### 🛠️ Technical Stack
-
-<h4 align="left">🤖 AI & Data Science</h4>
+<h4 align="left">🤖 AI & Data Science skills</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
@@ -73,7 +77,7 @@ Combining collaborative problem-solving with end-to-end system design, I aim to 
 
 <br>
 
-<h4 align="left">☁️ Cloud, MLOps & Infrastructure</h4>
+<h4 align="left">☁️ Cloud, MLOps & Infrastructure skills</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -86,7 +90,7 @@ Combining collaborative problem-solving with end-to-end system design, I aim to 
 
 <br>
 
-<h4 align="left">💻 Programming & Development</h4>
+<h4 align="left">💻 Programming & Development skills</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" />
