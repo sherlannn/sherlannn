@@ -10,6 +10,11 @@
 
 <h3 align="center">🎓 Junior AI Engineer & M.Sc Data Science Student</h3>
 
+<p align="center">
+  <em>
+    Specializing in Scalable Generative AI, Graph RAG, MLOps, and Cloud-Native Engineering.
+  </em>
+</p>
 
 ---
 
@@ -56,6 +61,7 @@ Combining collaborative problem-solving with end-to-end system design, I aim to 
   <img src="https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge" alt="LlamaIndex" />
   <img src="https://img.shields.io/badge/vLLM-blue?style=for-the-badge" alt="vLLM" />
   <img src="https://img.shields.io/badge/Ollama-white?style=for-the-badge&labelColor=black" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
@@ -75,7 +81,7 @@ Combining collaborative problem-solving with end-to-end system design, I aim to 
   <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue" alt="mlflow" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </div>
 
 <br>
@@ -89,4 +95,5 @@ Combining collaborative problem-solving with end-to-end system design, I aim to 
   <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white" alt="matlab" />
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Pydantic-e92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
 </div>
