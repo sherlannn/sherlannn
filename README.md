@@ -10,11 +10,6 @@
 
 <h3 align="center">🎓 Junior AI Engineer & M.Sc Data Science Student</h3>
 
-<p align="center">
-  <em>
-    Specializing in Scalable Generative AI, Graph RAG, MLOps, and Cloud-Native Engineering.
-  </em>
-</p>
 
 ---
 
