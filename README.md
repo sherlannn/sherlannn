@@ -52,7 +52,6 @@ Combining collaborative problem-solving with end-to-end system design, I aim to 
 </div>
 
 #
-#
 
 <h4 align="left">🤖 AI & Data Science skills</h4>
 <div align="left">
